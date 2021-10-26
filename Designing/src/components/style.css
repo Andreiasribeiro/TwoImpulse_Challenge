@@ -1,0 +1,318 @@
+/*Two Impulse Challenge - Andréia Ribeiro*/
+
+/* ===========================Homepage================================*/
+.text1{
+
+    font-family: 'Poppins', sans-serif;
+    font: 700;
+    color: white;
+    margin-top: 5.8rem;
+    font-weight: bold;
+  }
+  .text2{
+    margin-top: 7rem;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    color: rgb(165, 159, 158);
+    margin-bottom: 30px;
+  }
+  
+  .text3{
+  
+    margin-top: 10rem;
+    margin-bottom: 2rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: rgb(10, 2, 44);
+  }
+  
+  
+  .landings{
+  
+    width: 30rem;
+    height: 30rem;
+  }
+  .p1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    color: rgb(165, 159, 158);
+  
+  }
+  .btn-info{
+  
+    background-color: rgba(24, 13, 231, 1);
+    color: white;
+    border-radius: 2rem;
+    margin-top: 1.5rem;
+    width: 10rem;
+    padding: 7px;
+    box-shadow: 5px 5px 5px rgb(221, 218, 218);
+   
+  }
+  
+  .btn-success{
+    width: 9rem;
+    background-color: white !important;
+    color: rgb(34, 12, 224) !important;
+    font-weight: bold;
+    border-radius: 2rem;
+    margin-top: 1.5rem;
+  
+    }
+  
+  .bg-img {
+   
+    background-image: url("../images/landing.png");
+    min-height: 680px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(24, 13, 231, 1);
+    position: relative;
+   
+  }
+  
+  .bg-img1{
+   
+    background-image: url("../images/curve3.png");
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(24, 13, 231, 1);
+    position: relative;
+    
+  }
+  .bg-img2{
+   
+    background-image: url("../images/curve2.png");
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(24, 13, 231, 1);
+    position: relative;
+    
+  }
+  .simple-p1{
+  
+    color: white;
+    font-family: 'Poppins', sans-serif;
+  
+  }
+  .ref a{
+    color: white!important;
+    font-size: 19px;
+    
+  }
+  .ref {
+    margin-top: 5rem;
+    
+  }     
+  .topnav {
+    overflow: hidden;
+        
+  }
+  
+  .topnav a {
+    margin-top: 5rem;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    margin-left: 10rem;
+    text-decoration: none;
+    font-size: 21px;
+  }
+    .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .footer-text{
+     font-family: 'Poppins', sans-serif;
+     color: white;
+     
+  }
+  .btn-default{
+    background-color: white;
+    color: #5851EA;
+    width: 10rem;
+    border-radius: 25px;
+    height: 2.5rem;
+    font-weight: bold;
+  
+  }
+  
+  .icons {
+    display: flex;
+    margin-left: 10px;
+  }
+  .footerBorder {
+  
+  border-top-color: white;
+  border-top-style: solid;
+  border-top-width: 1px;
+  margin-top: 40px;
+  }
+  
+  .midias{
+  padding-right: 30px;
+  }
+  .midia{
+  margin-top: 100px;
+  margin-bottom:0;
+  margin-left: 100px;
+  }
+  .space {
+    height: 200px;
+  } 
+  .empHp {
+   
+    background-image: url("../images/curve.svg");
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position:unset;
+  
+  }
+/*=============================Employee==================================*/
+
+.background{
+
+    background-color: rgba(24, 13, 231, 1) !important;
+
+}
+.nav-link{
+    color: white!important;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    margin-right: 2rem;
+    font-weight: bold;
+}
+.logo3{
+    margin-left: 4rem;
+}
+
+.emp-p1{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 10rem;
+    margin-top: 8rem;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgba(24, 13, 231, 1) !important;
+
+}
+
+.title {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+.logo3 {
+    padding: 0;
+}
+
+
+.el3{
+
+    margin-left: 2rem;
+    margin-top: 5rem;
+    margin-right: 7rem;
+    width: 3.7rem;
+    height: 4.1rem;
+}
+
+.el4{
+
+    margin-left: 14rem;
+    margin-top: 9rem;
+    width: 3.7rem;
+    height: 4.1rem;
+}
+
+
+.empBg {
+   
+  background-image: url("../images/curve.svg");
+  min-height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+}
+/*=============================Team==================================*/
+.circle{
+
+    border-radius: 70%;
+    width: 5.5rem;
+    height: 4.5rem;
+
+}
+.team-h6{
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-weight: bold;
+}
+.team-p{
+
+    font-family: 'Poppins', sans-serif;
+    color: rgb(139, 136, 136);
+    margin-top: 1rem;
+    margin-left: 1rem;
+
+}
+.icon{
+    margin: 1rem;
+    margin-left: 5rem;
+}
+
+
+.el1{
+
+    margin-left: 2rem;
+    margin-top: 5rem;
+    margin-right: 10rem;
+    width: 3.7rem;
+    height: 4.1rem;
+}
+
+.el2{
+
+    margin-left: 20rem;
+    margin-top: 9rem;
+    width: 3.7rem;
+    margin-bottom: 7rem;
+    height: 4.1rem;
+
+}
+.space2 {
+  height: 200px;
+  margin-left: 200px;
+} 
+
+.teamBg {
+   
+  background-image: url("../images/curve.svg");
+  min-height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.line {
+border-color: rgb(216, 174, 224);
+border-width: 2px;
+}
+.block {
+  background-color: #fff;
+  border-color: rgb(240, 237, 237);
+  border-width: 1px;
+  border-style: solid;
+}
